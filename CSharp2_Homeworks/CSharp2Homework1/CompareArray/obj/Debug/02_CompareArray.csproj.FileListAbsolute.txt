@@ -1,0 +1,5 @@
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\CompareArray\bin\Debug\CompareArray.exe.config
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\CompareArray\bin\Debug\CompareArray.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\CompareArray\bin\Debug\CompareArray.pdb
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\CompareArray\obj\Debug\CompareArray.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\CompareArray\obj\Debug\CompareArray.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\SelectionSort\obj\Debug\07_SelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\SelectionSort\obj\Debug\SelectionSort.pdb

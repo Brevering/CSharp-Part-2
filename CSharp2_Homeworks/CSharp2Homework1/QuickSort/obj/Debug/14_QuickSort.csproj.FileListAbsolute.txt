@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\QuickSort\bin\Debug\QuickSort.exe.config
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\QuickSort\obj\Debug\14_QuickSort.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\QuickSort\obj\Debug\QuickSort.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\QuickSort\obj\Debug\QuickSort.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk02\SequenceInMatrix\bin\Debug\SequenceInMatrix.exe.config
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk02\SequenceInMatrix\bin\Debug\SequenceInMatrix.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk02\SequenceInMatrix\bin\Debug\SequenceInMatrix.pdb
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk02\SequenceInMatrix\obj\Debug\03.SequenceInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk02\SequenceInMatrix\obj\Debug\SequenceInMatrix.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk02\SequenceInMatrix\obj\Debug\SequenceInMatrix.pdb

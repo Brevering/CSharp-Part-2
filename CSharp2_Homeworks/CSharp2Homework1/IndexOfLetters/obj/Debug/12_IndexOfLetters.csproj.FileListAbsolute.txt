@@ -1,0 +1,5 @@
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\IndexOfLetters\bin\Debug\IndexOfLetters.exe.config
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\IndexOfLetters\bin\Debug\IndexOfLetters.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\IndexOfLetters\bin\Debug\IndexOfLetters.pdb
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\IndexOfLetters\obj\Debug\IndexOfLetters.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\IndexOfLetters\obj\Debug\IndexOfLetters.pdb

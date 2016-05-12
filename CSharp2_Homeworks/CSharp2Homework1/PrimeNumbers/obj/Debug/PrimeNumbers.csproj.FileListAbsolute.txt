@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\PrimeNumbers\obj\Debug\PrimeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\PrimeNumbers\obj\Debug\PrimeNumbers.pdb

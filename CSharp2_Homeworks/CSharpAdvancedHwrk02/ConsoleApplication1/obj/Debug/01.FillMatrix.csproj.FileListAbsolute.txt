@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk02\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk02\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk02\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk02\ConsoleApplication1\obj\Debug\01.FillMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk02\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk02\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

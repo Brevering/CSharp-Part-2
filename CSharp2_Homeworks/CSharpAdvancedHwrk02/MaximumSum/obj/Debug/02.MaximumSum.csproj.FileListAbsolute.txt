@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk02\MaximumSum\bin\Debug\MaximumSum.exe.config
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk02\MaximumSum\bin\Debug\MaximumSum.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk02\MaximumSum\bin\Debug\MaximumSum.pdb
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk02\MaximumSum\obj\Debug\02.MaximumSum.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk02\MaximumSum\obj\Debug\MaximumSum.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk02\MaximumSum\obj\Debug\MaximumSum.pdb

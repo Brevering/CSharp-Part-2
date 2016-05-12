@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\CompareCharArrays\bin\Debug\CompareCharArrays.exe.config
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\CompareCharArrays\bin\Debug\CompareCharArrays.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\CompareCharArrays\bin\Debug\CompareCharArrays.pdb
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\CompareCharArrays\obj\Debug\CompareCharArrays.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\CompareCharArrays\obj\Debug\CompareCharArrays.pdb
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\CompareCharArrays\obj\Debug\03_CompareCharArrays.csprojResolveAssemblyReference.cache

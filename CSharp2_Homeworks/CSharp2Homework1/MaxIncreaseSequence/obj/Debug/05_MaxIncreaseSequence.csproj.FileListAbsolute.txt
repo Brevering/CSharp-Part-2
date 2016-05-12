@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\MaxIncreaseSequence\bin\Debug\MaxIncreaseSequence.exe.config
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\MaxIncreaseSequence\bin\Debug\MaxIncreaseSequence.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\MaxIncreaseSequence\bin\Debug\MaxIncreaseSequence.pdb
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\MaxIncreaseSequence\obj\Debug\MaxIncreaseSequence.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\MaxIncreaseSequence\obj\Debug\MaxIncreaseSequence.pdb
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Homework1\MaxIncreaseSequence\obj\Debug\05_MaxIncreaseSequence.csprojResolveAssemblyReference.cache
