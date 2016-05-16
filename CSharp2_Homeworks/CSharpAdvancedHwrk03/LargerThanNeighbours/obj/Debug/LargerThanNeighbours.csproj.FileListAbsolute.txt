@@ -1,0 +1,5 @@
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk03\LargerThanNeighbours\bin\Debug\LargerThanNeighbours.exe.config
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk03\LargerThanNeighbours\bin\Debug\LargerThanNeighbours.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk03\LargerThanNeighbours\bin\Debug\LargerThanNeighbours.pdb
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk03\LargerThanNeighbours\obj\Debug\LargerThanNeighbours.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk03\LargerThanNeighbours\obj\Debug\LargerThanNeighbours.pdb

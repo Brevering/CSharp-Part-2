@@ -1,0 +1,5 @@
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk03\12.IntegerCalculations\bin\Debug\12.IntegerCalculations.exe.config
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk03\12.IntegerCalculations\bin\Debug\12.IntegerCalculations.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk03\12.IntegerCalculations\bin\Debug\12.IntegerCalculations.pdb
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk03\12.IntegerCalculations\obj\Debug\12.IntegerCalculations.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk03\12.IntegerCalculations\obj\Debug\12.IntegerCalculations.pdb
