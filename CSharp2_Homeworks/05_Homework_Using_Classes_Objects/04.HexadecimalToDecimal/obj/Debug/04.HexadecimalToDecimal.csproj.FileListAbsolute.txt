@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk05\04.HexadecimalToDecimal\bin\Debug\04.HexadecimalToDecimal.exe.config
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk05\04.HexadecimalToDecimal\bin\Debug\04.HexadecimalToDecimal.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk05\04.HexadecimalToDecimal\bin\Debug\04.HexadecimalToDecimal.pdb
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk05\04.HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk05\04.HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk05\04.HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.pdb

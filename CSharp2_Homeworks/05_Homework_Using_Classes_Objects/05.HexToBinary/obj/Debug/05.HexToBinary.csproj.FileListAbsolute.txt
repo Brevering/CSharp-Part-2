@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk05\05.HexToBinary\bin\Debug\05.HexToBinary.exe.config
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk05\05.HexToBinary\bin\Debug\05.HexToBinary.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk05\05.HexToBinary\bin\Debug\05.HexToBinary.pdb
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk05\05.HexToBinary\obj\Debug\05.HexToBinary.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk05\05.HexToBinary\obj\Debug\05.HexToBinary.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk05\05.HexToBinary\obj\Debug\05.HexToBinary.pdb

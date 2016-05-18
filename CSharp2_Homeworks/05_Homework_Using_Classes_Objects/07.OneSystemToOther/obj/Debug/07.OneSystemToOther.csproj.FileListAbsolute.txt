@@ -1,0 +1,5 @@
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk05\07.OneSystemToOther\bin\Debug\07.OneSystemToOther.exe.config
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk05\07.OneSystemToOther\bin\Debug\07.OneSystemToOther.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk05\07.OneSystemToOther\bin\Debug\07.OneSystemToOther.pdb
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk05\07.OneSystemToOther\obj\Debug\07.OneSystemToOther.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk05\07.OneSystemToOther\obj\Debug\07.OneSystemToOther.pdb

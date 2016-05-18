@@ -1,0 +1,1 @@
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharpAdvancedHwrk05\03.DecimalToHexadecimal\bin\Debug\03.DecimalToHexadecimal.exe.config
