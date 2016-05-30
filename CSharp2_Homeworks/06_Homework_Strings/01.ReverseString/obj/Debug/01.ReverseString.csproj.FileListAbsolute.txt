@@ -1,0 +1,6 @@
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Hwrk06_Strings\01.ReverseString\bin\Debug\01.ReverseString.exe.config
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Hwrk06_Strings\01.ReverseString\bin\Debug\01.ReverseString.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Hwrk06_Strings\01.ReverseString\bin\Debug\01.ReverseString.pdb
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Hwrk06_Strings\01.ReverseString\obj\Debug\01.ReverseString.csprojResolveAssemblyReference.cache
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Hwrk06_Strings\01.ReverseString\obj\Debug\01.ReverseString.exe
+C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Hwrk06_Strings\01.ReverseString\obj\Debug\01.ReverseString.pdb
