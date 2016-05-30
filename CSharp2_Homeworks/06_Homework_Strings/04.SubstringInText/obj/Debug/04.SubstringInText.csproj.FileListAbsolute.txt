@@ -1,6 +1,0 @@
-C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Hwrk06_Strings\04.SubstringInText\bin\Debug\04.SubstringInText.exe.config
-C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Hwrk06_Strings\04.SubstringInText\bin\Debug\04.SubstringInText.exe
-C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Hwrk06_Strings\04.SubstringInText\bin\Debug\04.SubstringInText.pdb
-C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Hwrk06_Strings\04.SubstringInText\obj\Debug\04.SubstringInText.csprojResolveAssemblyReference.cache
-C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Hwrk06_Strings\04.SubstringInText\obj\Debug\04.SubstringInText.exe
-C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Hwrk06_Strings\04.SubstringInText\obj\Debug\04.SubstringInText.pdb

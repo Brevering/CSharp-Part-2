@@ -1,6 +1,0 @@
-C:\Users\User\Documents\TELERIK\CSharp2\Homework\Strings_Homework\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe.config
-C:\Users\User\Documents\TELERIK\CSharp2\Homework\Strings_Homework\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe
-C:\Users\User\Documents\TELERIK\CSharp2\Homework\Strings_Homework\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.pdb
-C:\Users\User\Documents\TELERIK\CSharp2\Homework\Strings_Homework\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.csprojResolveAssemblyReference.cache
-C:\Users\User\Documents\TELERIK\CSharp2\Homework\Strings_Homework\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.exe
-C:\Users\User\Documents\TELERIK\CSharp2\Homework\Strings_Homework\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.pdb

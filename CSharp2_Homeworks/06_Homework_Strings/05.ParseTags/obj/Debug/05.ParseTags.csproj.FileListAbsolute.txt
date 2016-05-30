@@ -1,6 +1,0 @@
-C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Hwrk06_Strings\05.ParseTags\bin\Debug\05.ParseTags.exe.config
-C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Hwrk06_Strings\05.ParseTags\bin\Debug\05.ParseTags.exe
-C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Hwrk06_Strings\05.ParseTags\bin\Debug\05.ParseTags.pdb
-C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Hwrk06_Strings\05.ParseTags\obj\Debug\05.ParseTags.csprojResolveAssemblyReference.cache
-C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Hwrk06_Strings\05.ParseTags\obj\Debug\05.ParseTags.exe
-C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Hwrk06_Strings\05.ParseTags\obj\Debug\05.ParseTags.pdb

@@ -1,6 +1,0 @@
-C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Hwrk06_Strings\03.CorrectBrackets\bin\Debug\03.CorrectBrackets.exe.config
-C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Hwrk06_Strings\03.CorrectBrackets\bin\Debug\03.CorrectBrackets.exe
-C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Hwrk06_Strings\03.CorrectBrackets\bin\Debug\03.CorrectBrackets.pdb
-C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Hwrk06_Strings\03.CorrectBrackets\obj\Debug\03.CorrectBrackets.csprojResolveAssemblyReference.cache
-C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Hwrk06_Strings\03.CorrectBrackets\obj\Debug\03.CorrectBrackets.exe
-C:\Users\Stanimir\Desktop\ТЕЛЕРИК\CSharp2_Homeworks\CSharp2Hwrk06_Strings\03.CorrectBrackets\obj\Debug\03.CorrectBrackets.pdb
